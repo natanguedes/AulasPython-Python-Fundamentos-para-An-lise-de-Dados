@@ -68,3 +68,14 @@ float ->números fracionários,positivos ou negativos Ex: -7.1 e 7.1
 ** potencia =  4**2 = 16
 int() = converte inteiro = int(3,2) =
 float() = converte float = float(2) = 2.0
+
+
+operações relacionais
+
+== igualdade e equivalencia
+!=  Desigualdade / inequivalencia
+> maior que
+< menor que
+
+>= maior  que ou igual a
+<= menor que ou igual a
